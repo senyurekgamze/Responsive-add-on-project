@@ -61,13 +61,8 @@ header a {
 }
 
 footer {
-  color: white;
-  background-image: linear-gradient(
-      rgba(39, 32, 68, 0.12),
-      rgba(39, 32, 68, 0.065)
-    ),
-    url("../images/footer.jpg");
-
+  color: black;
+  background-image: url("../images/footer.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   padding: 100px 0;
@@ -98,8 +93,8 @@ footer li {
 }
 
 footer a {
-  color: beige;
-  opacity: 0.7;
+  color: rgb(86, 124, 165);
+  text-decoration: none;
 }
 
 @media (max-width: 900px) {
