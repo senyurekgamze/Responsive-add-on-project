@@ -241,7 +241,7 @@ footer a {
     display: none;
   }
 
-  .instagram-embeds {
-    aspect-ratio: 2/3;
+  .embed {
+    aspect-ratio: 16/9;
   }
 }
