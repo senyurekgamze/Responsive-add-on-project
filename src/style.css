@@ -7,10 +7,6 @@ body {
   margin: 0 auto;
 }
 
-.text-center {
-  text-align: center;
-}
-
 .grid {
   display: grid;
   grid-gap: 64px;
